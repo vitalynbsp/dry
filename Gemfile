@@ -42,3 +42,4 @@ end
 
 
 gem 'rubocop', require: false
+gem 'rspec', require: false

@@ -1,9 +1,1 @@
-/.bundle/
-/coverage/
-/doc/
-/spec/reports/
-/tmp/
-
-# rspec failure tracking
-.rspec_status
 .DS_Store
